@@ -12,7 +12,9 @@
 
 This is a pure static website built from HTML and CSS. It is for showcasing the developer's knowledge and level in the tech industry.
 
-NOTE:
+---
+
+## NOTE:
 
 The owner's information about his career as a programmer and web developer is all included in this simple website.
 
