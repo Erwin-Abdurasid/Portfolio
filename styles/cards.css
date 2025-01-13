@@ -28,9 +28,9 @@
 
 .card-image {
     flex: 0 0 250px;
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center center;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-position: center center !important;
 }
 
 .card-content {
